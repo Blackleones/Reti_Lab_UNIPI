@@ -1,0 +1,16 @@
+MV:
+sistemisti1516
+1516_Sistemisti
+
+DB USER:
+SYS - 1516_Sistemisti
+LURCI - LURCIOracle
+
+
+------
+
+
+IS: 4/4/16 ore 11
+IA: 4/4/16 ore 15
+
+------
